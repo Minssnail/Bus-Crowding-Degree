@@ -1,0 +1,11 @@
+﻿  HOGgradshow.cpp
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(92): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(127): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(128): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(129): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(152): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\科研项目\1公交车\3拥挤度\project\hoginfo\hoggradshow\hoggradshow\hoggradshow.cpp(220): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  HOGgradshow.vcxproj -> E:\科研项目\1公交车\3拥挤度\project\HOGinfo\HOGgradshow\Debug\HOGgradshow.exe
+  HOGgradshow.vcxproj -> E:\科研项目\1公交车\3拥挤度\project\HOGinfo\HOGgradshow\Debug\HOGgradshow.pdb (Full PDB)
